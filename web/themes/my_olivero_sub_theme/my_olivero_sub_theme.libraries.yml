@@ -1,0 +1,7 @@
+# Main theme library.
+global:
+  css:
+    base:
+      css/style.css: {}
+    theme:
+      css/custom.css: {}
